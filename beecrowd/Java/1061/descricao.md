@@ -18,3 +18,5 @@ Y minuto(s)<br>
 Z segundo(s)<br>
 
 Obs: Considere que o evento do caso de teste para o problema tem duração mínima de 1 minuto.
+
+Link: https://judge.beecrowd.com/pt/problems/view/1061
